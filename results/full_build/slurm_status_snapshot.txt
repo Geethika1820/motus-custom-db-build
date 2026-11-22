@@ -1,0 +1,39 @@
+# 2026-11-22T21:20Z
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+5038978_[10-99%10]    qCPU24 motus_fu gpakala1 PD       0:00      1 (JobHeldUser)
+         5038978_9    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint02
+         5038978_8    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint02
+         5038978_7    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint02
+         5038978_6    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint02
+         5038978_5    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint01
+         5038978_4    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint01
+         5038978_3    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint01
+         5038978_2    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint01
+         5038978_1    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint01
+         5038978_0    qCPU24 motus_fu gpakala1  R    1:30:49      1 acidsint01
+
+JobID                     JobName      State    Elapsed     ReqMem  AllocCPUS  Partition               Start        NodeList 
+------------ -------------------- ---------- ---------- ---------- ---------- ---------- ------------------- --------------- 
+5038978_0      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint01 
+5038978_1      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint01 
+5038978_2      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint01 
+5038978_3      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint01 
+5038978_4      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint01 
+5038978_5      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint01 
+5038978_6      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint02 
+5038978_7      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint02 
+5038978_8      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint02 
+5038978_9      motus_full_extract    RUNNING   01:30:49         8G          4     qCPU24 2026-11-22T19:50:06      acidsint02 
+5038978_[10+   motus_full_extract    PENDING   00:00:00         8G          0     qCPU24             Unknown   None assigned 
+
+# sstat interim MaxRSS of running batch steps (array task -> raw job id)
+5038978_0 5038979 2553764K
+5038978_1 5038980 2608476K
+5038978_2 5038981 2544312K
+5038978_3 5038982 2612548K
+5038978_4 5038983 2532012K
+5038978_5 5038984 2533456K
+5038978_6 5038985 2619588K
+5038978_7 5038986 2590840K
+5038978_8 5038987 2678776K
+5038978_9 5038988 2566668K

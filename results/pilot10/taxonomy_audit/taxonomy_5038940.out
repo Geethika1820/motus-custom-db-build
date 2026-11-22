@@ -1,0 +1,17 @@
+Searching TaxIDs: 1000373, 100053, 1000561, 1000562, 1000565, 1000568
+Scanned 5,000,000 rows
+Scanned 10,000,000 rows
+Scanned 15,000,000 rows
+Scanned 20,000,000 rows
+Scanned 25,000,000 rows
+Scanned 30,000,000 rows
+Scanned 35,000,000 rows
+Scanned 40,000,000 rows
+Scanned 45,000,000 rows
+TaxID 1000373: 4 rows; 1 lineage variants
+TaxID 100053: 0 rows; 0 lineage variants
+TaxID 1000561: 1,783 rows; 1 lineage variants
+TaxID 1000562: 105 rows; 1 lineage variants
+TaxID 1000565: 60 rows; 1 lineage variants
+TaxID 1000568: 45 rows; 1 lineage variants
+Taxonomy audit completed: /userapp/gpakala1/motus_custom_work/pilot10/taxonomy_5038940

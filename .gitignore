@@ -1,0 +1,74 @@
+# Raw reference genomes and sequence data
+*.fna
+*.fna.gz
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.faa
+*.faa.gz
+*.ffn
+*.gbk
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignments and profiler intermediates
+*.bam
+*.bai
+*.sam
+*.cram
+*.mgc
+*.inserts.gz
+*.m8
+*.uc
+
+# BWA / database index binaries
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+db_mOTU/
+motus_dbs/
+*.db.blocklist.gz
+
+# Large intermediate outputs
+*.partial
+*.genes.*
+*.fetchMGs.*
+!*.fetchMGs.scores
+marker_pairs.tsv
+inventory.tsv
+prokaryotic_candidates.txt
+marker_provenance.tsv.gz
+extraction_*/
+run_*/
+*_classify_tmp/
+*.tar
+*.tar.gz
+*.zip
+
+# Raw Slurm stderr (fetchMGs progress bars reach >1 MB per task).
+# Small, curated stderr excerpts are committed as *_stderr.txt instead.
+*.err
+
+# Credentials and local config
+.env
+*.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.git-credentials
+.netrc
+*token*
+*secret*
+
+# Editor / OS / Python clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.swp

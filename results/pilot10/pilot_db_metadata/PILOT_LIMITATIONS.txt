@@ -1,0 +1,7 @@
+Experimental technical pilot; not an official mOTUs database.
+Five provisional clusters from nine reference files.
+Taxonomy is unannotated; GTDB columns contain unknown ranks.
+No unassigned marker collection or blocklist screening.
+Genome metadata is minimal; genome-search utilities are not validated.
+Clustering and representative selection require further validation.
+Not suitable for accuracy claims or full CAMI abundance interpretation.

@@ -1,0 +1,6 @@
+PILOT_CLUSTER	SOURCE_SPECIES	SOURCE_SPECIES_TAXID	SOURCE_LINEAGE	SOURCE_TAXID_LINEAGE	SOURCE_REFERENCE_IDS
+PILOT_001	Leptospira alexanderi	100053	Bacteria|Spirochaetes|Spirochaetia||Leptospiraceae|Leptospira|Leptospira alexanderi	2|203691|203692||170|171|100053	100053.0,100053.1,100053.2,100053.3,100053.4
+PILOT_002	Pseudomonas aeruginosa	287	Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa	2|1224|1236|72274|135621|286|287	1000561
+PILOT_003	Streptococcus phocae	119224	Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus phocae	2|1239|91061|186826|1300|1301|119224	1000562
+PILOT_004	Methyloversatilis universalis	378211	Bacteria|Proteobacteria|Betaproteobacteria|Nitrosomonadales|Sterolibacteriaceae|Methyloversatilis|Methyloversatilis universalis	2|1224|28216|32003|2008793|378210|378211	1000565
+PILOT_005	Megasphaera sp. UPII 199-6	1000568	Bacteria|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Megasphaera|Megasphaera sp. UPII 199-6	2|1239|909932|1843489|31977|906|1000568	1000568

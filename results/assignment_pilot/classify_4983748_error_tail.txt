@@ -1,0 +1,3 @@
+  File "/userapp/gpakala1/conda/envs/mOTUs4/lib/python3.13/site-packages/motus/motus.py", line 1720, in classify
+    raise RuntimeError(f"Command {vsearch_command} failed") from e
+RuntimeError: Command vsearch --threads 4 --usearch_global /userapp/gpakala1/motus_custom_work/assignment_pilot/run_4983748/assignments.tsv_classify_tmp/motus_classify.fna --db /userapp/gpakala1/motus4_db/motus_dbs/db_mOTU/mOTUsv4.1.db.fna.gz --strand both --id 0.8 --maxaccepts 2000 --maxrejects 2000 --mincols 20 --userout /userapp/gpakala1/motus_custom_work/assignment_pilot/run_4983748/assignments.tsv_classify_tmp/motus_classify.align_vs_motu.m8 --userfields query+target+id+alnlen+mism+ids+ql+tl --mincols 40 failed

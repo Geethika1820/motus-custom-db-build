@@ -1,0 +1,24 @@
+Command exited with non-zero status 1
+	Command being timed: "motus classify -i /userapp/gpakala1/motus_custom_work/assignment_pilot/genomes.txt -o /userapp/gpakala1/motus_custom_work/assignment_pilot/run_4979551/assignments.tsv -db /userapp/gpakala1/motus4_db/motus_dbs -t 4"
+	User time (seconds): 101.32
+	System time (seconds): 23.31
+	Percent of CPU this job got: 144%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:26.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14657736
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 787
+	Minor (reclaiming a frame) page faults: 8706000
+	Voluntary context switches: 10924
+	Involuntary context switches: 6221
+	Swaps: 0
+	File system inputs: 1933928
+	File system outputs: 4760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1

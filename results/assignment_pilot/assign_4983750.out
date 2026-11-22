@@ -1,0 +1,4 @@
+acidscn008
+GENOME	CLOSEST_MOTU	SIMILARITY	ASSIGNED_TO_MOTU	TAXONOMY	#MGs
+taxid_1000568_genomic.fna.gz	mOTUv4.0_050662	99.59	True	d__Bacteria;p__Bacillota;c__Negativicutes;o__Veillonellales;f__Megasphaeraceae;g__Megasphaera_C;s__Megasphaera_C lornae	10
+Output directory: /userapp/gpakala1/motus_custom_work/assignment_pilot/run_4983750

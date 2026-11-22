@@ -1,0 +1,11 @@
+REFERENCE	CORE_FAMILIES	MISSING_FAMILIES
+taxid_1000373_genomic.fna.gz	NA	EXCLUDED_BELOW_20000_BASES
+taxid_100053_0_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_1_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_2_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_3_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_4_genomic.fna.gz	8	COG0541,COG0552
+taxid_1000561_genomic.fna.gz	9	COG0016
+taxid_1000562_genomic.fna.gz	10	-
+taxid_1000565_genomic.fna.gz	10	-
+taxid_1000568_genomic.fna.gz	10	-

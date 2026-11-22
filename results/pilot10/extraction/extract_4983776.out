@@ -1,0 +1,21 @@
+INPUT: taxid_1000373_genomic.fna.gz: 17,078 bases
+INPUT: taxid_100053_0_genomic.fna.gz: 4,067,564 bases
+INPUT: taxid_100053_1_genomic.fna.gz: 4,060,960 bases
+INPUT: taxid_100053_2_genomic.fna.gz: 4,062,692 bases
+INPUT: taxid_100053_3_genomic.fna.gz: 4,040,397 bases
+INPUT: taxid_100053_4_genomic.fna.gz: 4,044,353 bases
+INPUT: taxid_1000561_genomic.fna.gz: 6,267,620 bases
+INPUT: taxid_1000562_genomic.fna.gz: 1,659,203 bases
+INPUT: taxid_1000565_genomic.fna.gz: 4,234,613 bases
+INPUT: taxid_1000568_genomic.fna.gz: 1,640,787 bases
+taxid_1000373_genomic.fna.gz\tNA\tEXCLUDED_BELOW_20000_BASES
+taxid_100053_0_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_1_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_2_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_3_genomic.fna.gz	8	COG0541,COG0552
+taxid_100053_4_genomic.fna.gz	8	COG0541,COG0552
+taxid_1000561_genomic.fna.gz	9	COG0016
+taxid_1000562_genomic.fna.gz	10	-
+taxid_1000565_genomic.fna.gz	10	-
+taxid_1000568_genomic.fna.gz	10	-
+Extraction and marker summary completed.

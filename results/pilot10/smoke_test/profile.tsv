@@ -1,0 +1,7 @@
+#tool_version=4.1.0	database_version=4.1-pilot	min_alignment_length=75	min_mgcs=3	count_mode=INSERT_SCALED	value_type=counts
+mOTU	Taxonomy	PILOT_SMOKE
+PILOT_001	d__;p__;c__;o__;f__;g__;s__	7
+PILOT_002	d__;p__;c__;o__;f__;g__;s__	5
+PILOT_003	d__;p__;c__;o__;f__;g__;s__	5
+PILOT_004	d__;p__;c__;o__;f__;g__;s__	5
+PILOT_005	d__;p__;c__;o__;f__;g__;s__	5

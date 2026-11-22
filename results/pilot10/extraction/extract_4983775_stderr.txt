@@ -1,0 +1,8 @@
+INFO:root:Starting gene calling from 10 genome files.
+  0%|          | 0/10 [00:00<?, ?genomes/s]  0%|          | 0/10 [00:00<?, ?genomes/s]
+Traceback (most recent call last):
+  File "<stdin>", line 22, in <module>
+  File "/userapp/gpakala1/conda/envs/mOTUs4/lib/python3.13/site-packages/fetchmgs/fetchmgs.py", line 262, in extraction_genomes
+    training_info = gene_finder.train(*(seq for seq in scaffold_2_sequence.values()))
+  File "pyrodigal/lib.pyx", line 5547, in pyrodigal.lib.GeneFinder.train
+ValueError: sequence must be at least 20000 characters (17126 found)

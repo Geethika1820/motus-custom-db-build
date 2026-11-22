@@ -1,0 +1,13 @@
+# Pilot DB files (binaries/FASTA not committed). sha256 and size in bytes, recorded 2026-11-22
+0faae32f00d792d30ca6f402c8504a911590a4012bf2a1867c62118cf3176ed1	62	mOTUsv4.1-pilot.db
+28b2c05b58927227a85d38fa133b821d830d222f04033f92b6c9c142ac8e43a4	54	mOTUsv4.1-pilot.db.blocklist.gz
+b6dea5e5feb0a9caf5366b54d35f5e3074f8eb2937822413a9c1d4884cec39e5	21648	mOTUsv4.1-pilot.db.fna.gz
+29dc7fd66d64495c5a47dd362fbeab79171df4779f4b8f27d5163b4e37db9be8	11	mOTUsv4.1-pilot.db.fna.gz.amb
+a2ae18102e1a9ab344dec3ae6f3e2e3a2d3a357c402eaa225be711d486b80cb6	3586	mOTUsv4.1-pilot.db.fna.gz.ann
+3a64c695c4e5bb7a20fd0512ddf693942786bf9e1a66969fe67d892c6bc421ee	80196	mOTUsv4.1-pilot.db.fna.gz.bwt
+5dfa3d3787eb1b663da4d5329086e1dc2488355734ac509eec8d9d9817ab7d48	20030	mOTUsv4.1-pilot.db.fna.gz.pac
+6f18c270c8fbc8c70403666b74e04a60b7ae914b7f043694f4dc83858c072321	40112	mOTUsv4.1-pilot.db.fna.gz.sa
+594b74424364cd46ef3767ef1408d9e56111c5ed6fd879a7c4dd1da90f4e8e2f	146	mOTUsv4.1-pilot.genomes.tsv.gz
+496f9bbd014805026c346335c5e898a6728e44adfb8eb98fb945cec09801e427	120	mOTUsv4.1-pilot.gtdb.taxonomy.80mv.tsv.gz
+e737dbb6f832c5b7bbb2e2e706820010291761c033948fbf38a612b23be9a9ad	171	mOTUsv4.1-pilot.gtdb.taxonomy.rep.tsv.gz
+7a9439ecb44c288cfd2d4f7c34ff1134b7121cd1b23cc8ca68323edb510bf845	789	mOTUsv4.1-pilot.map.tsv.gz

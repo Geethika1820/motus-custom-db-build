@@ -1,0 +1,1 @@
+/userapp/metabit/data/metalign_fulldb/organism_files/taxid_1000568_genomic.fna.gz

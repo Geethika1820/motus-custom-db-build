@@ -1,0 +1,3 @@
+Traceback (most recent call last):
+  File "<stdin>", line 15, in <module>
+RuntimeError: Marker too short for this test: PILOT_002.MGC_COG0172_0000000001.MG_0000000001

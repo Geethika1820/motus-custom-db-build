@@ -1,0 +1,10 @@
+Generated 260 synthetic 150-base reads.
+Profiling finished; checking abundance output:
+#tool_version=4.1.0	database_version=4.1-pilot	min_alignment_length=75	min_mgcs=3	count_mode=INSERT_SCALED	value_type=relative_abundances
+mOTU	Taxonomy	PILOT_SMOKE
+PILOT_001	d__;p__;c__;o__;f__;g__;s__	0.26050977
+PILOT_002	d__;p__;c__;o__;f__;g__;s__	0.17933979
+PILOT_003	d__;p__;c__;o__;f__;g__;s__	0.18484283
+PILOT_004	d__;p__;c__;o__;f__;g__;s__	0.18741508
+PILOT_005	d__;p__;c__;o__;f__;g__;s__	0.18789254
+Output directory: /userapp/gpakala1/motus_custom_work/pilot10/smoke_5038939
